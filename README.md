@@ -156,10 +156,9 @@ Installation
 	* UIKit
 	* CoreFoundation
 	* QuartzCore
-	* AssetsLibrary
 	* ImageIO
 	* Accelerate
-	* MobileCoreServices
+	* CoreServices
 	* libz
 4. Import `YYImage.h`.
 5. Notice: if you want to support WebP format, you may add `Vendor/WebP.framework`(static library) to your Xcode project.
